@@ -1,6 +1,6 @@
 # 广州李兆智有限公司
 
-<img src="https://mrlizhaozhi.github.io/assets/images/site-logo-dark.png" width="120">
+<a href="https://mrlizhaozhi.github.io"><img src="https://mrlizhaozhi.github.io/assets/images/site-logo-dark.png" width="120"></a>
 <img src="https://mrlizhaozhi.github.io/assets/images/web-design.png" align="right" width="350">
 
 👋 你好，欢迎来到李兆智的 GitHub 主页 @mrlizhaozhi！\
@@ -18,3 +18,11 @@
 🌏 我目前在中国广州生活和工作，过去4年在美国密尔沃基。
 
 2022 &copy; Guangzhou Li Zhaozhi Co., Ltd.
+
+其它公众帐户：
+
+- LinkedIn：[https://www.linkedin.com/in/lizhaozhi](https://www.linkedin.com/in/lizhaozhi)
+- Kaggle：[https://www.kaggle.com/mrlizhaozhi](https://www.kaggle.com/mrlizhaozhi)
+- Blogger: [https://lizhaozhi21.blogspot.com/](https://lizhaozhi21.blogspot.com)
+- Instagram：[https://www.instagram.com/lizhaozhi21](https://www.instagram.com/lizhaozhi21)
+- Facebook：[https://www.facebook.com/user20220913](https://www.facebook.com/user20220913)
