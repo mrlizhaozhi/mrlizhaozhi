@@ -1,6 +1,7 @@
 # 广州李兆智有限公司
 
-<img src="https://mrlizhaozhi.github.io/assets/images/web-design.png" align="right" width="500">
+<img src="https://mrlizhaozhi.github.io/assets/images/site-logo-dark.png" width="120">
+<img src="https://mrlizhaozhi.github.io/assets/images/web-design.png" align="right" width="350">
 
 👋 你好，欢迎来到李兆智的 GitHub 主页 @mrlizhaozhi！\
 🎓 我于2021年5月毕业于 Marquette University，主修金融学和信息系统。\
