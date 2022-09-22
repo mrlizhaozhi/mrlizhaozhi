@@ -1,7 +1,9 @@
 # 广州李兆智有限公司
 
+请点击这个商标访问我的网站：
 <a href="https://mrlizhaozhi.github.io"><img src="https://mrlizhaozhi.github.io/assets/images/site-logo-dark.png" width="120"></a>
-<img src="https://mrlizhaozhi.github.io/assets/images/web-design.png" align="right" width="350">
+
+<img src="https://mrlizhaozhi.github.io/assets/images/web-design.png" align="right" width="380">
 
 👋 欢迎来到李兆智的 GitHub 主页 @mrlizhaozhi！\
 🎓 2021年5月毕业于马凯特大学，主修金融学和信息系统。\
