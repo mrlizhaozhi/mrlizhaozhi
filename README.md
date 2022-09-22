@@ -11,7 +11,7 @@
    - *Introduction to Statistics and Data Analysis*
    - *Applications of Artificial Intelligence in Business*
    
-  （还有很多其它数据，请联系我...）
+  （此处省略若干书名...）
   
 ❤  我的爱好包括：阅读、写作、摄影、绘画和编程等。\
 🌏 我目前在中国广州生活和工作，过去4年在美国密尔沃基。
