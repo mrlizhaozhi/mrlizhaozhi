@@ -3,8 +3,8 @@
 <a href="https://mrlizhaozhi.github.io"><img src="https://mrlizhaozhi.github.io/assets/images/site-logo-dark.png" width="120"></a>
 <img src="https://mrlizhaozhi.github.io/assets/images/web-design.png" align="right" width="350">
 
-👋 你好，欢迎来到李兆智的 GitHub 主页 @mrlizhaozhi！\
-🎓 我于2021年5月毕业于 Marquette University，主修金融学和信息系统。\
+👋 欢迎来到李兆智的 GitHub 主页 @mrlizhaozhi！\
+🎓 2021年5月毕业于马凯特大学，主修金融学和信息系统。\
 🔍 我的兴趣包括 Web 应用开发、商业智能和数据科学。\
 📚 我正在阅读下列书籍：
 
