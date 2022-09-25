@@ -27,7 +27,5 @@
 - LinkedIn：[https://www.linkedin.com/in/lizhaozhi](https://www.linkedin.com/in/lizhaozhi)
 - Kaggle：[https://www.kaggle.com/mrlizhaozhi](https://www.kaggle.com/mrlizhaozhi)
 - Blogger: [https://lizhaozhi21.blogspot.com/](https://lizhaozhi21.blogspot.com)
-- Instagram：[https://www.instagram.com/lizhaozhi21](https://www.instagram.com/lizhaozhi21)
-- Facebook：[https://www.facebook.com/user20220913](https://www.facebook.com/user20220913)
 - CodePen: [https://codepen.com/lizhaozhi](https://codepen.com/lizhaozhi)
 - Tableau: [https://public.tableau.com/app/profile/lizhaozhi](https://public.tableau.com/app/profile/lizhaozhi)
