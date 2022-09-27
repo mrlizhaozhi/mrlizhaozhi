@@ -1,4 +1,4 @@
-# 广州李兆智有限公司
+# 李兆智的办公室 Office of Li Zhaozhi
 
 请点击这个商标访问我的网站：
 
@@ -20,9 +20,7 @@
 ❤  我的爱好包括：阅读、写作、拍照、绘画和编程等。\
 🌏 我目前在中国广州生活和工作，过去4年在美国密尔沃基。
 
-2022 &copy; Guangzhou Li Zhaozhi Co., Ltd.
-
-其它公众帐户：
+关注我的其它公众帐户：
 
 - LinkedIn：[https://www.linkedin.com/in/lizhaozhi](https://www.linkedin.com/in/lizhaozhi)
 - Kaggle：[https://www.kaggle.com/mrlizhaozhi](https://www.kaggle.com/mrlizhaozhi)
