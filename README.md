@@ -1,4 +1,4 @@
-请点击这个商标访问我的网站：
+请点击这个图标访问我的网站：
 
 <a href="https://mrlizhaozhi.github.io"><img src="https://mrlizhaozhi.github.io/assets/images/site-logo-dark.png" width="120"></a>
 
@@ -18,7 +18,7 @@
 ❤  我的爱好包括：阅读、写作、拍照、绘画和编程等。\
 🌏 我目前在中国广州生活和工作，过去4年在美国密尔沃基。
 
-关注我的其它公众帐户：
+欢迎关注我的其它开发者帐户：
 
 - LinkedIn：[https://www.linkedin.com/in/lizhaozhi](https://www.linkedin.com/in/lizhaozhi)
 - Kaggle：[https://www.kaggle.com/mrlizhaozhi](https://www.kaggle.com/mrlizhaozhi)
