@@ -1,5 +1,3 @@
-# 李兆智的办公室 Office of Li Zhaozhi
-
 请点击这个商标访问我的网站：
 
 <a href="https://mrlizhaozhi.github.io"><img src="https://mrlizhaozhi.github.io/assets/images/site-logo-dark.png" width="120"></a>
