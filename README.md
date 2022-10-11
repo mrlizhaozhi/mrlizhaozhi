@@ -2,6 +2,6 @@
 
 \###
 
-中国共产党（CCP）将于2022年10月16日举行第20届国民大会。这段时间之前和之后，您可能会在访问GitHub（包括此页面和办公室官方网站）内遇到困难 中华人民共和国（PRC）。 请考虑在您的设备上安装VPN应用程序或使用Shadowsocks或V2Ray开发一个应用程序。 请注意，只有桌面客户端支持功能，例如git克隆和推送。 浏览器扩展不起作用。
+中国共产党（CCP）将于2022年10月16日举行第20届代表大会。这段时间，您从中华人民共和国（PRC）境内访问 GitHub（包括此页面和办公室官方网站）时可能会遇到技术困难。 请考虑在您的设备上安装 VPN 客户端或使用 Shadowsocks 或 V2Ray 开发一个 VPN 应用程序。 请注意，只有桌面客户端支持 git 功能，例如克隆和推送。 浏览器 VPN 扩展不起作用。
 
-The Chinese Communist Party (CCP) will hold the 20th National Congress on October 16, 2022. Before and after this time, you may experience difficulties in accessing GitHub, including this page and the official website of the Office of Li Zhaozhi, within the borders of the People's Republic of China (PRC). Please consider installing a VPN application on your device or developing one with Shadowsocks or V2Ray. Please note that only desktop client support functions such as Git Clone and Push. Browser extensions won't work.
+The Chinese Communist Party (CCP) will hold its 20th National Congress on October 16, 2022. Around this time, you will experience technical difficulties in accessing GitHub, including this page and the official website of the Office of Li Zhaozhi, from within the borders of the People's Republic of China (PRC). Please consider installing a VPN client on your device or developing one with Shadowsocks or V2Ray. Note that only desktop clients support git features such as Clone and Push. VPN browser extensions won't do the trick.
