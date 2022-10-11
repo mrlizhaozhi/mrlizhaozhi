@@ -6,4 +6,4 @@ The Chinese Communist Party (CCP) will hold its 20th National Congress on Octobe
 
 中国共产党（CCP）将于2022年10月16日举行第二十届全国代表大会。大约在这个时候，您很有可能在试图从中华人民共和国（PRC）境内访问和连接 GitHub（包括本页面和办公室的官方网站）时遇到技术困难。请考虑在您的设备上安装VPN客户端，或使用 Shadowsocks 或 V2Ray 开发一个 VPN 客户端。请注意，只有桌面客户端支持 git 功能，如克隆和推送。VPN 浏览器扩展无法做到这一点。
 
-(中文来自*百度翻译*，请以英文版为准。)
+(中文版来自*百度翻译*，请以英文版为准。)
