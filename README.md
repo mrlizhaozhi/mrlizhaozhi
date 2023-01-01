@@ -1,1 +1,1 @@
-欢迎来到我的[GitHub 主页](https://github.com/mrlizhaozhi)！这里有我的编程项目和练习。如果你不知道从哪里开始阅览，可以访问我的[私人网站（只有英文版）](https://mrlizhaozhi.github.io)，我在这里整理好了一些项目、资料和文章。我也欢迎各位在[其它平台](https://mrlizhaozhi.github.io/en-uk/about-zhaozhi/find-me/)上关注我。
+欢迎来到我的[GitHub 主页](https://github.com/mrlizhaozhi)！这里有我的研究、项目和练习。如果您不知从何处开始阅览可以访问我的[个人网站](https://mrlizhaozhi.github.io)。我在这里整理了一些项目、文章和资源。我亦诚挚邀请各位在[其它平台](https://mrlizhaozhi.github.io/en-uk/about-zhaozhi/find-me/)上追踪我的动态。
