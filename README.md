@@ -1,4 +1,1 @@
-Hi there! Welcome to my GitHub page.
-
-- [Kaggle](https://www.kaggle.com/mrlizhaozhi)
-- [Tableau Public](http://public.tableau.com/app/profile/lizhaozhi)
+Hi there! Welcome to my GitHub page. This is where I publish selected analytics and automation projects. I'm also on [LinkedIn](https://www.linkedin.com/in/lizhaozhi), [Kaggle](https://www.kaggle.com/mrlizhaozhi), [Tableau Public](http://public.tableau.com/app/profile/lizhaozhi), and [Stack Overflow](https://stackoverflow.com/users/20500936/). I have a personal blog at [The Blog of Li Zhaozhi](https://theliblogs.blogspot.com/) where I write about readings, analytics, and a range of stuff.
