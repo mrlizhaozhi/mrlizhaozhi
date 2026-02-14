@@ -1,4 +1,4 @@
-請於下列公眾平臺追蹤我的帳戶：
+請於下列公眾平臺追蹤我的帳戶：\
 Follow my profile on the public platforms below:
 
 - [LinkedIn](https://www.linkedin.com/in/lizhaozhi)
