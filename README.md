@@ -7,3 +7,5 @@ Follow my profile on the public platforms below:
 - [Tableau Public](http://public.tableau.com/app/profile/lizhaozhi)
 - [Stack Overflow](https://stackoverflow.com/users/20500936/)
 - [Blogger](https://lizhaozhi100.blogspot.com/)
+
+標籤 Tags: data-science machine-learning web-development financial-crime-detection dashboards-and-reporting-automation automation knowledge-management
